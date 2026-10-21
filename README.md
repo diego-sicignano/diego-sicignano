@@ -2,7 +2,7 @@ Hi, I'm Diego.
 
 I'm a software engineer based in Italy, working across Python, AWS and GCP. I like using the right tool for the job instead of sticking to one stack.
 
-At work I build and run data and integration services: pulling data from third-party APIs and running event-driven pipelines that process a live stream of 20-30 events per second. I take services from code to production and keep improving them, making the data more reliable, faster to deliver and cheaper to run.
+At work I build and run data and integration services with my team: pulling data from third-party APIs and running event-driven pipelines that process a live stream of 20-30 events per second, from code to production.
 
 I'm most at home in backend and cloud, but comfortable across the stack. I've built AI applications and agents with LangChain, LangGraph, LlamaIndex and Google ADK in internal training projects, and I use Claude Code and GitHub Copilot every day, keeping up with new skills, workflows and MCP integrations.
 
